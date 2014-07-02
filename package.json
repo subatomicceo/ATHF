@@ -1,0 +1,19 @@
+{
+  "name": "ATHF",
+  "version": "0.0.0",
+  "description": "The lovable characters from Aqua Teen Hunger Force in pure css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Greg Parks",
+  "license": "ISC",
+  "dependencies": {
+    "grunt": "^0.4.5"
+  },
+  "devDependencies": {
+    "grunt-contrib-stylus": "^0.17.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-sass": "^0.14.0"
+  }
+}
